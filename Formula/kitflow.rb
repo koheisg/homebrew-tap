@@ -1,8 +1,8 @@
 class Kitflow < Formula
   desc "Small GitFlow-style workflow helper"
   homepage "https://github.com/koheisg/kitflow"
-  url "https://github.com/koheisg/kitflow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "61d5acdc551a02836203c9f3fc93ca69aceb1a4a08f8b5a9fe017e3a02a60c18"
+  url "https://github.com/koheisg/kitflow/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "1679ba88cf97f75117010114fc0827c2f790b71f6c16375ca4154e9b1833f1ce"
   license "MIT"
   head "https://github.com/koheisg/kitflow.git", branch: "main"
 
