@@ -1,6 +1,6 @@
 cask "emacx" do
-  version "0.1.0"
-  sha256 "f6586c34dd1aff6620bb2c1d2af841ec00e1afd9e29bcf08f67a720b084a693c"
+  version "0.1.1"
+  sha256 "95331c95a187ce0c363909b515d3e8e4074a96d947f4bfe3c4f411ab4eb06f05"
 
   url "https://github.com/koheisg/emacx/releases/download/v#{version}/Emacx-#{version}.zip"
   name "Emacx"
